@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Computer Science Student** @ TU Darmstadt  
-💼 **Software Developer** @ Fraport AG (Aug 2023 - Aktuell)  
+💼 **Software Developer** @ Fraport AG (Aug 2023 - Present)  
 🔬 **Bachelor Thesis:** Multimodal Deepfake Detection @ Fraunhofer SIT    
 📍 Based in **Darmstadt, Germany**
 ```javascript
@@ -187,7 +187,8 @@ current:
 ## 🎓 Education
 
 **B.Sc. Informatik** - Technische Universität Darmstadt  
-📅 Okt 2021 - Aktuell
+📅 Okt 2021 - Present
+
 **Bachelor Thesis:** Detection von multimodalen Deepfakes @ Fraunhofer SIT
 
 ---
