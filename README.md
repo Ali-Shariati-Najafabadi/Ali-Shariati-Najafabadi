@@ -17,18 +17,18 @@
 
 🎓 **Computer Science Student** @ TU Darmstadt  
 💼 **Software Developer** @ Fraport AG (Aug 2023 - Present)  
-🔬 **Bachelor Thesis:** Multimodal Deepfake Detection @ Fraunhofer SIT    
+🔬 **Bachelor Thesis:** Multimodal Deepfake Detection @ Fraunhofer SIT
 📍 Based in **Darmstadt, Germany**
 ```javascript
 const ali = {
-    code: ["Python", "JavaScript", "Java", "TypeScript"],
+    code: ["Python", "JavaScript", "Java", "TypeScript", "C++"],
     technologies: {
         frontEnd: ["React", "Vue.js", "HTML", "CSS", "Tailwind"],
         backEnd: ["Node.js", "Flask", "FastAPI"],
-        databases: ["MySQL", "PostgreSQL"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL"],
         devOps: ["Docker", "Git", "Azure DevOps", "CI/CD"],
-        testing: ["TestComplete", "ReadyAPI", "Gherkin"],
-        ai_ml: ["PyTorch", "Hugging Face", "TensorFlow", "Computer Vision", "NLP"]
+        testing: ["TestComplete", "ReadyAPI", "Gherkin", "Selenium"],
+        ai_ml: ["PyTorch", "TensorFlow", "Hugging Face", "OpenCV", "Scikit-learn"]
     },
     currentFocus: "Deep Learning & Test Automation",
     funFact: "I debug production code and deepfakes 🤖"
@@ -45,6 +45,7 @@ const ali = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -71,6 +72,7 @@ const ali = {
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
@@ -82,22 +84,32 @@ const ali = {
 <tr>
 <td width="50%">
 
-### 🎭 Real-Time Deepfake Pipeline
+### 🎭 [Real-Time Deepfake Pipeline](https://github.com/Ali-Shariati-Najafabadi/Real-Time-Deepfake-Pipeline)
 **System Security Lab, TU Darmstadt**
 
-Entwicklung einer Echtzeit-Pipeline zur Stimm- und Gesichtsumwandlung für Videoanwendungen.
+Development of a performant real-time pipeline for voice and face conversion with client-server architecture and user-friendly GUI.
 
-**Tech:** Python • PyTorch • Computer Vision • GFPGAN • InsightFace
+**Tech:** Python • PyTorch • Computer Vision • GFPGAN • InsightFace • Diff-HierVC
+
+**Highlights:**
+- Real-time audio and video processing
+- Client-server architecture
+- GUI for easy interaction
 
 </td>
 <td width="50%">
 
-### 🔒 Sustainable Protocol Security Analysis
+### 🔒 Tool Support for Sustainable Protocol Security
 **SEEMOO, TU Darmstadt**
 
-Python-basierte Tools zur Analyse und Visualisierung von Sicherheitslücken in LoRaWAN.
+Full-stack web application for analyzing LoRaWAN security vulnerabilities from 100+ research papers with interactive visualization.
 
-**Tech:** Python • React • Security Analysis • CLI Tools
+**Tech:** Python • React • Security Analysis • CLI Tools • LaTeX
+
+**Highlights:**
+- Analysis of 100+ security papers
+- Interactive graph visualizations
+- Automated LaTeX table generation
 
 </td>
 </tr>
@@ -105,22 +117,32 @@ Python-basierte Tools zur Analyse und Visualisierung von Sicherheitslücken in L
 <tr>
 <td width="50%">
 
-### 🧠 Context-Aware Image Captions
-**System Security Lab**
+### 🧠 [Context-Aware Captions from Photos](https://github.com/Ali-Shariati-Najafabadi/Generate-Context-Aware-Captions-from-Photos)
+**System Security Lab, TU Darmstadt**
 
-ML-Modell zur kontextbewussten Bildbeschreibung mit BLIP-2.
+Training of a BLIP-2 model on GoodNews dataset (15k images) for context-aware image captioning.
 
 **Tech:** Python • PyTorch • NLP • Transformers • BLIP-2
+
+**Results:**
+- 23% improvement over baseline (BLEU score)
+- Trained on 15k images
+- Context-aware caption generation
 
 </td>
 <td width="50%">
 
-### ✈️ Flight Operations Testing
-**Fraport AG**
+### 🎓 Multimodal Deepfake Detection
+**Bachelor Thesis @ Fraunhofer SIT**
 
-Automatisierte End-to-End-Tests für mobile Informationssysteme.
+Development of a deep learning system for detecting and temporally localizing audio-video manipulations in deepfakes.
 
-**Tech:** TestComplete • JavaScript • ReadyAPI • Kafka • Azure DevOps
+**Tech:** PyTorch • CNNs • 3D-CNNs • Wav2Vec • HuBERT • Transformers
+
+**Highlights:**
+- Audio-video inconsistency detection
+- Temporal localization of manipulations
+- Evaluation on ACM Grand Challenge dataset
 
 </td>
 </tr>
@@ -160,6 +182,9 @@ Automatisierte End-to-End-Tests für mobile Informationssysteme.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ali-shariati-najafabadi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ali-Shariati-Najafabadi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ali-shariati-najafabadi-b69063220/">
@@ -172,34 +197,59 @@ Automatisierte End-to-End-Tests für mobile Informationssysteme.
 ## 💼 Work Experience
 ```yaml
 current:
-  role: "Werkstudent Softwareentwicklung & Testautomatisierung"
+  role: "Working Student Software Development & Test Automation"
   company: "Fraport AG"
-  location: "Frankfurt am Main"
-  period: "Aug 2023 - Aktuell"
+  location: "Frankfurt am Main, Germany"
+  period: "Aug 2023 - Present"
   highlights:
-    - "Entwicklung automatisierter End-to-End-Tests mit TestComplete"
-    - "API-Testing mit ReadyAPI und Kafka-Integration"
-    - "CI/CD Pipeline-Verbesserung und Azure DevOps"
+    - "Implementation of 60+ end-to-end tests with TestComplete and JavaScript (Gherkin)"
+    - "Reduced manual testing time by 60%"
+    - "Development of 70+ automated API tests with ReadyAPI"
+    - "Integration into CI/CD pipeline for Kafka message validation"
+    - "Error documentation and analysis in JIRA, task management in Azure DevOps"
+    - "CI/CD pipeline optimization in agile team, regular participation in sprint reviews"
 ```
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Informatik** - Technische Universität Darmstadt  
-📅 Okt 2021 - Present
+**B.Sc. Computer Science** - Technical University of Darmstadt  
+📅 Oct 2021 - Present 
 
-**Bachelor Thesis:** Detection von multimodalen Deepfakes @ Fraunhofer SIT
+**Bachelor Thesis:** Detection of Multimodal Deepfakes @ Fraunhofer SIT
+- Development of deep learning system for audio-video manipulation detection
+- Combination of CNNs/3D-CNNs and Transformer architectures (Wav2Vec, HuBERT)
+- Evaluation on ACM Grand Challenge dataset
+
 
 ---
 
 ## 💡 Current Focus
 
-- 🔭 Working on **multimodal deepfake detection**
-- 🌱 Learning **advanced deep learning architectures**
-- 👯 Open to collaborate on **ML/AI projects**
-- 💬 Ask me about **Python, React, PyTorch, Test Automation**
-- ⚡ Fun fact: **I can debug both code and AI-generated faces!**
+- 🔭 Working on **multimodal deepfake detection** for my bachelor thesis
+- 🌱 Learning **advanced deep learning architectures** and **transformer models**
+- 👯 Open to collaborate on **ML/AI projects** and **open-source contributions**
+- 💬 Ask me about **Python, React, PyTorch, Test Automation, Computer Vision, NLP**
+- ⚡ Fun fact: **I can debug both production code and AI-generated deepfakes!**
+
+---
+
+## 📈 Key Achievements
+
+- 🏆 **60% reduction** in manual testing time through test automation
+- 🎯 **23% improvement** in BLEU score for context-aware image captioning
+- 📊 **130+ automated tests** (60+ E2E, 70+ API tests) in production
+- 🔬 Research on **multimodal deepfake detection** at Fraunhofer SIT
+- 🛠️ Full-stack development of **security analysis tools** for 100+ research papers
+
+---
+
+## 🌍 Languages
+
+- 🇩🇪 **German:** Advanced (Professional working proficiency)
+- 🇬🇧 **English:** Advanced (Professional working proficiency)
+- 🇮🇷 **Persian:** Native speaker
 
 ---
 
@@ -215,6 +265,7 @@ current:
 
 <div align="center">
   
-### Show some ❤️ by starring some repositories!
+### 💫 Show some love by starring repositories you find interesting!
+
 
 </div>
