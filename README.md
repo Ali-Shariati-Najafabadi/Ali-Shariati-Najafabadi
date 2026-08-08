@@ -83,15 +83,15 @@ Bachelor Thesis: *Detection of Multimodal Deepfakes* @ Fraunhofer SIT
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ali-Shariati-Najafabadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Shariati-Najafabadi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Ali-Shariati-Najafabadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Ali-Shariati-Najafabadi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 ## Languages
 
-🇩🇪 German — Advanced · 🇬🇧 English — Advanced · 🇮🇷 Persian — Native
+German — Advanced · English — Advanced · Persian — Native
 
 ---
 
