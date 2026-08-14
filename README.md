@@ -10,9 +10,10 @@
 
 ## About
 
-- 🎓 M.Sc. Computer Science, TU Darmstadt — starting Oct 2026
-- 📄 B.Sc. Computer Science, TU Darmstadt — 2021 – 2026
 - 💼 Software Developer @ Capgemini — Jun 2026 – Present
+- 💼 Working Student, Software Development & Test Automation @ Fraport AG — Aug 2023 – Feb 2026
+- 🎓 M.Sc. Computer Science, TU Darmstadt — 2026
+- 📄 B.Sc. Computer Science, TU Darmstadt — 2021 – 2026
 - 📍 Darmstadt, Germany
 
 ---
