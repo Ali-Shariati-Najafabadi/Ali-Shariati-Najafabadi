@@ -53,7 +53,7 @@ Real-time voice and face conversion pipeline with a client-server architecture a
 
 - **[Context-Aware Captions from Photos](https://github.com/Ali-Shariati-Najafabadi/Generate-Context-Aware-Captions-from-Photos)** — Fine-tuned BLIP-2 on the GoodNews dataset for context-aware image captioning.
 - **Tool Support for Sustainable Protocol Security** (SEEMOO, TU Darmstadt) — Full-stack tool analyzing LoRaWAN security vulnerabilities across 100+ research papers.
-- **Multimodal Deepfake Detection** (Bachelor Thesis, Fraunhofer SIT) — Deep learning system detecting and localizing audio-video manipulations, combining CNNs and transformer architectures (Wav2Vec, HuBERT).
+- **[Multimodal Deepfake Detection](https://github.com/Ali-Shariati-Najafabadi/multimodal-deepfake-detection)** (Bachelor Thesis, Fraunhofer SIT) — Deep learning system detecting and localizing audio-video manipulations, combining CNNs and transformer architectures (Wav2Vec, HuBERT).
 
 ---
 
@@ -77,7 +77,7 @@ Oct 2026 – Present
 
 **B.Sc. Computer Science** — Technical University of Darmstadt
 Oct 2021 – 2026
-Bachelor Thesis: *Detection of Multimodal Deepfakes* @ Fraunhofer SIT
+Bachelor Thesis: [*Detection of Multimodal Deepfakes*](https://github.com/Ali-Shariati-Najafabadi/multimodal-deepfake-detection) @ Fraunhofer SIT
 
 ---
 
